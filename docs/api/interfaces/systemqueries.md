@@ -14,3 +14,5 @@
   * **changed**? : *boolean | [ComponentConstructor](componentconstructor.md)‹any›[]*
 
   * **removed**? : *boolean*
+
+* **mandatory**? : *boolean*

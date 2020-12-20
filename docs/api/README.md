@@ -1,5 +1,5 @@
 
-# ecsy - v0.4.2
+# @scottwestover/ecsy - v0.4.3
 
 ## Type aliases
 
